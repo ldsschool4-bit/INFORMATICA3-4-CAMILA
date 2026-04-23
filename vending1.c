@@ -16,4 +16,8 @@ char selected2= 'm';
  float price3= 5.00;
  int quantity3= 5;
  char selected3= 'r';
+printf("Vending Machine Stock\n");
+printf("---------------------------\n");
+printf("Item name: Chips\n");
+printf(")
 }
