@@ -2,7 +2,7 @@
 
 int main(void)
 {
- printf("Welcome to the Snack Shop! /n");
+ printf("Welcome to the Snack Shop!/n");
 ---------------------------
 Item               Price                Quantity         Code
 --------------------------------------------------------------
