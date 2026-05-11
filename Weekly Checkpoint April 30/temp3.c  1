@@ -1,0 +1,14 @@
+#include <stdio.h>
+//1. Prototype
+void garfield(void);
+
+int main(void){
+    //3. Call
+    garfield();
+
+}
+
+//2.Define
+void garfield(void){
+    printf("I hate Mondays\n");
+}
