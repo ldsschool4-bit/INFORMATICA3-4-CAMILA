@@ -24,10 +24,10 @@ int main(void){
 
 //2.Define
 void c_to_f(void){
-    float c;
+    float h;
     printf("Enter the Temperature in Celsius: ");
     scanf("%f", &c);
-    float f = (c*1.8)+32;
+    float m = (c*1.8)+32;
     printf("%.2f°C = %2f°F \n",c,f);
 }
 
